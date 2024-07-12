@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Hello.dir/main.cpp.o -o Hello  -Wl,-rpath,/Users/alien/Downloads/yesica/tercero/ingenieria/ingenieria-de-software/build/my_library my_library/libmy_library.dylib 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alien/Downloads/yesica/tercero/ingenieria/ingenieria-de-software/my_library/my_library.cpp
+my_library.h
+/Users/alien/Downloads/yesica/tercero/ingenieria/ingenieria-de-software/my_library/my_library.h
+
+/Users/alien/Downloads/yesica/tercero/ingenieria/ingenieria-de-software/my_library/my_library.h
+

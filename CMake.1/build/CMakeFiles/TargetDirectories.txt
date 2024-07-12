@@ -1,0 +1,7 @@
+/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.1/build/CMakeFiles/install/local.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.1/build/CMakeFiles/rebuild_cache.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.1/build/CMakeFiles/edit_cache.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.1/build/CMakeFiles/install/strip.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.1/build/CMakeFiles/install.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.1/build/CMakeFiles/list_install_components.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.1/build/CMakeFiles/Ejecutable.dir

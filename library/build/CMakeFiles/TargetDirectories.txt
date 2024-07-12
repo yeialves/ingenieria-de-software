@@ -1,0 +1,6 @@
+/Users/alien/Downloads/yesica/tercero/ingenieria/ingenieria-de-software/build/CMakeFiles/rebuild_cache.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/ingenieria-de-software/build/CMakeFiles/edit_cache.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/ingenieria-de-software/build/CMakeFiles/Hello.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/ingenieria-de-software/build/my_library/CMakeFiles/rebuild_cache.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/ingenieria-de-software/build/my_library/CMakeFiles/edit_cache.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/ingenieria-de-software/build/my_library/CMakeFiles/my_library.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -std=gnu++11 -o CMakeFiles/Ejecutable.dir/main.cpp.o -c /Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.1/main.cpp",
+  "file": "/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.1/main.cpp"
+}
+]

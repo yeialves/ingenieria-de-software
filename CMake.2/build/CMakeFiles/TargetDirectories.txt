@@ -1,0 +1,3 @@
+/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.2/build/CMakeFiles/rebuild_cache.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.2/build/CMakeFiles/edit_cache.dir
+/Users/alien/Downloads/yesica/tercero/ingenieria/cmake/CMake.2/build/CMakeFiles/CMake.2.dir
